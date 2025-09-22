@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manas Kashyap  
 
-💻 A Computer Science Engineering (CSE) student passionate about **Machine Learning, Web Development, and Open Source**.  
+💻 A Computer Science Engineering (CSE) student passionate about **Machine Learning, App Development, Web Development,and Open Source**.  
 🚀 Exploring new technologies and building projects that solve real-world problems.  
 📍 Based in Jaipur, India  
 
