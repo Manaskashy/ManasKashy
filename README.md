@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-                                                   ╔══════════════════════════════════════════════════════════╗
-                                                   ║          Hi there, I'm Manas Kashyap                     ║            
-                                                   ║         React Native Developer · AI Builder              ║
-                                                   ╚══════════════════════════════════════════════════════════╝                
+╔══════════════════════════════════════════════════════════╗
+║         Hi there, I'm Manas Kashyap 👋                   ║
+║         React Native Developer · AI Builder              ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -107,19 +107,7 @@ A production-grade food delivery app modelled on Zomato, featuring an animated c
 - 🏅 **Meta Front-End Developer Professional Certificate** — Coursera, 2025
 - 📱 **React Native Development** — Meta, 2025
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manaskashy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manaskashy&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ### 📬 Get in Touch
 
