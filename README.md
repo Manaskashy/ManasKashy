@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║         Hi there, I'm Manas Kashyap 👋                   ║
-║         React Native Developer · AI Builder              ║
-╚══════════════════════════════════════════════════════════╝
+                                                                   ╔══════════════════════════════════════════════════════════╗
+                                                                   ║          Hi there, I'm Manas Kashyap                     ║            
+                                                                   ║         React Native Developer · AI Builder              ║
+                                                                   ╚══════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
